@@ -1,7 +1,7 @@
 # SQLiLite
 
 Can you login to this website?
-Try to login [here](http://saturn.picoctf.net:60843/).
+Enable the question by launching an instance on the picoCTF website
 
 # solution
 
